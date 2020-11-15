@@ -1,0 +1,12 @@
+{
+  "name": "wanchai",
+  "displayName": "wanchai",
+  "expo": {
+    "name": "wanchai",
+    "slug": "wanchai",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
